@@ -1,0 +1,530 @@
+{
+  "password": "1234",
+  "days": [
+    {
+      "date": "27/7/23",
+      "html": "<p>Hoy ha sido un buen día. Me levanté temprano y disfruté de un desayuno saludable. Luego salí a caminar en el parque y me sentí muy bien con el ejercicio.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1500
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "28/7/23",
+      "html": "<p>Hoy ha sido un día productivo. Terminé varios proyectos en el trabajo y me siento satisfecho con mi rendimiento.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1800
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "date": "29/7/23",
+      "html": "<p>El clima estuvo agradable hoy. Disfruté de un día tranquilo en casa leyendo mi libro favorito.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1600
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "date": "30/7/23",
+      "html": "<p>Hoy me reuní con amigos para almorzar en un nuevo restaurante. La comida estuvo deliciosa y pasamos un rato muy agradable juntos.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 2000
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7.5
+        }
+      ]
+    },
+    {
+      "date": "31/7/23",
+      "html": "<p>Hoy dediqué tiempo a aprender algo nuevo. Comencé un curso en línea sobre desarrollo web y estoy emocionado por lo que vendrá.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1700
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7.5
+        }
+      ]
+    },
+    {
+      "date": "1/8/23",
+      "html": "<p>Hoy me sentí un poco cansado, así que tomé un descanso y disfruté de una siesta por la tarde. Me siento más renovado ahora.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1900
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8.5
+        }
+      ]
+    },
+    {
+      "date": "2/8/23",
+      "html": "<p>Hoy salí a correr temprano por la mañana. Fue un gran comienzo del día y me dio energía positiva.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1600
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "3/8/23",
+      "html": "<p>Hoy probé una nueva receta para la cena y resultó ser deliciosa. Definitivamente la haré de nuevo en el futuro.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1750
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "4/8/23",
+      "html": "<p>Hoy fue un día ocupado en el trabajo. Tuve varias reuniones y tareas, pero logré completar todo a tiempo.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1800
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 6.5
+        }
+      ]
+    },
+    {
+      "date": "5/8/23",
+      "html": "<p>Hoy me relajé en casa y vi una película que tenía pendiente desde hace tiempo. Fue un día tranquilo y agradable.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1650
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "date": "6/8/23",
+      "html": "<p>Hoy me desperté con mucha energía y decidí hacer una rutina de ejercicios en casa. Fue un desafío, ¡pero valió la pena!</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1550
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7.5
+        }
+      ]
+    },
+    {
+      "date": "7/8/23",
+      "html": "<p>Hoy disfruté de un día en la naturaleza. Fui de excursión con amigos y tuvimos un picnic en el bosque.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1900
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "8/8/23",
+      "html": "<p>Hoy asistí a una clase de yoga por primera vez. Fue una experiencia relajante y me gustaría seguir practicando.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1650
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "date": "9/8/23",
+      "html": "<p>Hoy me dediqué a la jardinería y planté algunas flores en el patio trasero. Me encanta ver cómo crecen las plantas.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1700
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "10/8/23",
+      "html": "<p>Hoy visité un museo de arte y me inspiró mucho. Pasé horas admirando las obras de arte.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1800
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 6.5
+        }
+      ]
+    },
+    {
+      "date": "11/8/23",
+      "html": "<p>Hoy fue un día de lluvia, así que aproveché para leer un libro y tomar una taza de té caliente.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1600
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "date": "12/8/23",
+      "html": "<p>Hoy me reuní con viejos amigos y recordamos buenos momentos juntos. Fue una reunión llena de risas y nostalgia.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1900
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "13/8/23",
+      "html": "<p>Hoy me animé a probar una nueva receta de postre y sorprendentemente salió muy bien. Todos en casa disfrutaron de ello.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1750
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "14/8/23",
+      "html": "<p>Hoy pasé tiempo en el parque jugando al fútbol con amigos. Fue una tarde divertida y llena de emoción.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1850
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7.5
+        }
+      ]
+    },
+    {
+      "date": "15/8/23",
+      "html": "<p>Hoy me dediqué a pintar un cuadro. Me relajé y me sentí inspirado durante el proceso creativo.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1700
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "date": "16/8/23",
+      "html": "<p>Hoy fui a nadar en la piscina. El agua estaba refrescante y me ayudó a liberar el estrés.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1600
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "17/8/23",
+      "html": "<p>Hoy hice una excursión a la montaña y disfruté de las vistas panorámicas desde la cima.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 1
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1750
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7.5
+        }
+      ]
+    },
+    {
+      "date": "18/8/23",
+      "html": "<p>Hoy participé en una clase de cocina y aprendí a preparar un platillo exótico. Fue una experiencia deliciosa.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1850
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "date": "19/8/23",
+      "html": "<p>Hoy pasé tiempo con mi familia y jugamos juegos de mesa juntos. Fue una noche divertida y llena de risas.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1650
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "date": "20/8/23",
+      "html": "<p>Hoy me relajé en casa y vi una película clásica. Fue un día de descanso bien merecido.</p>",
+      "checks": [
+        {
+          "name": "hacer ejercicio",
+          "type": "checkbox",
+          "value": 0
+        },
+        {
+          "name": "calories consumed",
+          "type": "input",
+          "value": 1750
+        },
+        {
+          "name": "hours of sleep",
+          "type": "input",
+          "value": 8.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.menu-button {
+  border-radius: 10px;
+  width: 100%;
+  padding: .2em;
+  max-width: 200px;
+  background-color: aliceblue;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-button.selected {
+  background-color: #8afa73;
+}
+
+.menu-button:hover {
+  filter: brightness(1.1);
+}
